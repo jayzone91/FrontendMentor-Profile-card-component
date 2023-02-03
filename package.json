@@ -1,0 +1,22 @@
+{
+  "name": "frontendmentor-profile-card-component",
+  "version": "1.0.0",
+  "description": "![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "watch": "sass styles.scss styles.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayzone91/FrontendMentor-Profile-card-component.git"
+  },
+  "author": "Johannes Kirchner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jayzone91/FrontendMentor-Profile-card-component/issues"
+  },
+  "homepage": "https://github.com/jayzone91/FrontendMentor-Profile-card-component#readme",
+  "devDependencies": {
+    "sass": "^1.58.0"
+  }
+}
